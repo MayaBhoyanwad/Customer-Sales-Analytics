@@ -1,0 +1,21 @@
+PROJECT: Customer Sales & Business Performance Analytics
+
+OBJECTIVE:
+
+To analyze customer sales and business performance data using
+Python, SQL and Power BI to identify revenue trends,
+customer behavior, product performance, regional performance
+and profitability opportunities.
+
+BUSINESS QUESTIONS:
+
+1. What is the total revenue?
+2. What is the total profit?
+3. Which products perform best?
+4. Which customers generate the highest revenue?
+5. Which regions perform best?
+6. How are monthly sales changing?
+7. How do discounts affect profitability?
+8. Which products have low profit margins?
+9. What percentage of customers are returning customers?
+10. What business recommendations can be made from the analysis?

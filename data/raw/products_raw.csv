@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,Unit_Price,Cost
+P001,Laptop,Electronics,65000,52000
+P002,Monitor,Electronics,18000,13500
+P003,Keyboard,Accessories,3000,2100
+P004,Mouse,Accessories,1500,950
+P005,Headphones,Accessories,4500,3000
+P006,Smartphone,Electronics,35000,28500
+P007,Tablet,Electronics,28000,22000
+P008,Printer,Office Equipment,16000,12500
+P009,Desk Chair,Furniture,12000,8500
+P010,Office Desk,Furniture,22000,16000
+P011,Webcam,Accessories,4000,2600
+P012,External SSD,Storage,9000,6500
+P013,Router,Networking,6000,4200
+P014,Power Bank,Accessories,2500,1600
+P015,USB Hub,Accessories,2200,1400
